@@ -16,7 +16,7 @@ public class Main {
         }
         //피보나치 수열의 앞 10개 값 중 1번 인덱스부터 9번 인덱스까지 출력
         for(int i=1; i<10; i++) {
-            //계산된 피보나치 수 출력
+            //계산한 피보나치 수열을 출력
             System.out.println(arr[i]);
         }
     }
